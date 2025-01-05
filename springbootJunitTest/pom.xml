@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.infy</groupId>
-	<artifactId>springbootjunittest</artifactId>
+	<artifactId>springbootJunitTest</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springbootjunittest</name>
+	<name>springbootJunitTest</name>
 	<description>Demo project for Spring Boot junit test</description>
 	<url/>
 	<licenses>
